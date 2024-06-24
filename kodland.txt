@@ -1,0 +1,2 @@
+print("Merhabalar ben ibrahim yılmaz instagramda 15 milyon takipçim var")
+print("beni takip ediyorsanız samsungun bu 0 telefonu sizin")
